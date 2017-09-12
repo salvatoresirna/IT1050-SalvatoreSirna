@@ -1,0 +1,6 @@
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02b\obj\Debug\Lab02b.csproj.CoreCompileInputs.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02b\bin\Debug\Lab02b.exe.config
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02b\bin\Debug\Lab02b.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02b\bin\Debug\Lab02b.pdb
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02b\obj\Debug\Lab02b.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02b\obj\Debug\Lab02b.pdb

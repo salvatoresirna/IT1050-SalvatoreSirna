@@ -1,0 +1,6 @@
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02-hello\bin\Debug\Lab02-hello.exe.config
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02-hello\bin\Debug\Lab02-hello.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02-hello\bin\Debug\Lab02-hello.pdb
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02-hello\obj\Debug\Lab02-hello.csproj.CoreCompileInputs.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02-hello\obj\Debug\Lab02-hello.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\Lab02-hello\obj\Debug\Lab02-hello.pdb

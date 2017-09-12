@@ -1,0 +1,7 @@
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\bin\Debug\Lab02-SalvatoreSirna.exe.config
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\bin\Debug\Lab02-SalvatoreSirna.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\bin\Debug\Lab02-SalvatoreSirna.pdb
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\obj\Debug\Lab02-SalvatoreSirna.csprojResolveAssemblyReference.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\obj\Debug\Lab02-SalvatoreSirna.csproj.CoreCompileInputs.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\obj\Debug\Lab02-SalvatoreSirna.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab02-SalvatoreSirna\obj\Debug\Lab02-SalvatoreSirna.pdb
