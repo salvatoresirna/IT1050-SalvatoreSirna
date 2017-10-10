@@ -5,3 +5,10 @@ C:\Users\SS\source\repos\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.ca
 C:\Users\SS\source\repos\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
 C:\Users\SS\source\repos\Lab01\obj\Debug\Lab01.exe
 C:\Users\SS\source\repos\Lab01\obj\Debug\Lab01.pdb
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab01\bin\Debug\Lab01.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab01\bin\Debug\Lab01.pdb
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab01\obj\Debug\Lab01.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab01\obj\Debug\Lab01.pdb

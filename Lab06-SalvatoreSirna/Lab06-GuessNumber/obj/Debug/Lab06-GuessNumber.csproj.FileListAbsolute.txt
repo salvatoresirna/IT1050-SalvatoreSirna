@@ -1,0 +1,7 @@
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-GuessNumber\bin\Debug\Lab06-GuessNumber.exe.config
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-GuessNumber\bin\Debug\Lab06-GuessNumber.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-GuessNumber\bin\Debug\Lab06-GuessNumber.pdb
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-GuessNumber\obj\Debug\Lab06-GuessNumber.csprojResolveAssemblyReference.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-GuessNumber\obj\Debug\Lab06-GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-GuessNumber\obj\Debug\Lab06-GuessNumber.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-GuessNumber\obj\Debug\Lab06-GuessNumber.pdb

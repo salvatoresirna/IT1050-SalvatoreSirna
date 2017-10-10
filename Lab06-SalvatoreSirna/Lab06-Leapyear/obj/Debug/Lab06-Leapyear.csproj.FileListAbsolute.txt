@@ -1,0 +1,7 @@
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-Leapyear\obj\Debug\Lab06-Leapyear.csprojResolveAssemblyReference.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-Leapyear\obj\Debug\Lab06-Leapyear.csproj.CoreCompileInputs.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-Leapyear\bin\Debug\Lab06-Leapyear.exe.config
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-Leapyear\bin\Debug\Lab06-Leapyear.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-Leapyear\bin\Debug\Lab06-Leapyear.pdb
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-Leapyear\obj\Debug\Lab06-Leapyear.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab06-SalvatoreSirna\Lab06-Leapyear\obj\Debug\Lab06-Leapyear.pdb
