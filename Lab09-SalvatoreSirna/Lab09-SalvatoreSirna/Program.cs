@@ -13,6 +13,9 @@ namespace Lab09_SalvatoreSirna
             int operand1 = 45;
             int operand2 = 35;
 
+            double product = Multiply(operand1, operand2);
+            Console.WriteLine(product);
+            
             // Correct division for double:
             double number1 = (double)operand1 / operand2;
             Console.WriteLine(number1);
