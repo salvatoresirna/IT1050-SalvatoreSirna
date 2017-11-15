@@ -31,22 +31,30 @@ namespace Lab09_SalvatoreSirna
             result();
         }
 
-        private static void result()
+        //Mulitply Method
+        static void Multiply(double operand1, double operand2)
         {
-            throw new NotImplementedException();
+           result = operand1 * operand2;
         }
-
-        double number1 = double.Parse(Console.ReadLine());
-        double number2 = double.Parse(Console.ReadLine());
-        double number3 = double.Parse(Console.ReadLine());
-        double number4 = double.Parse(Console.ReadLine());
-
-        public double Number1 { get => number1; set => number1 = value; }
-        public double Number2 { get => number2; set => number2 = value; }
-        public double Number3 { get => number3; set => number3 = value; }
-        public double Number4 { get => number4; set => number4 = value; }
+        // Divide Method
+        static void Divide(double operand1, double operand2)
+        {
+            result = operand1 / operand2;
+        }
+        //Subtract Method
+        static void Subtract(double operand1, double operand2)
+        {
+            result = operand1 - operand2;
+        }
+        //Add Method
+        static void Add(double operand1, double operand2)
+        {
+            result = operand1 + operand2;
+        }
+        //Results Method
+        static double GetResult()
+        {
+            return result;
+        }
     }
-        
-
-   
 }
