@@ -1,0 +1,7 @@
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-Question5\bin\Debug\Test1-Question5.exe.config
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-Question5\bin\Debug\Test1-Question5.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-Question5\bin\Debug\Test1-Question5.pdb
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-Question5\obj\Debug\Test1-Question5.csprojResolveAssemblyReference.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-Question5\obj\Debug\Test1-Question5.csproj.CoreCompileInputs.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-Question5\obj\Debug\Test1-Question5.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-Question5\obj\Debug\Test1-Question5.pdb

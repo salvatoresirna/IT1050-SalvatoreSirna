@@ -1,0 +1,6 @@
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-ExtraCredit-Question\obj\Debug\Test1-ExtraCredit-Question.csproj.CoreCompileInputs.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-ExtraCredit-Question\bin\Debug\Test1-ExtraCredit-Question.exe.config
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-ExtraCredit-Question\bin\Debug\Test1-ExtraCredit-Question.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-ExtraCredit-Question\bin\Debug\Test1-ExtraCredit-Question.pdb
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-ExtraCredit-Question\obj\Debug\Test1-ExtraCredit-Question.exe
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\IT1050-TEST1-SalvatoreSirna\Test1-ExtraCredit-Question\obj\Debug\Test1-ExtraCredit-Question.pdb
