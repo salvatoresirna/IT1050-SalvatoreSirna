@@ -1,0 +1,2 @@
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab13-IT1050\obj\Debug\Lab13-IT1050.csprojResolveAssemblyReference.cache
+C:\Users\SS\source\repos\IT1050-SalvatoreSirna\Lab13-IT1050\obj\Debug\Lab13-IT1050.csproj.CoreCompileInputs.cache
